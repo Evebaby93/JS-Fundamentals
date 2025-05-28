@@ -1,4 +1,4 @@
-Const myVar = "C is fun"
+const myVar = "C is fun"
 const P = "Python is cool"
 const JavaScript = "JavaScript is amazing"
 console.log("myVar")
