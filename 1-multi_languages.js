@@ -1,8 +1,6 @@
-const myVar = "C is fun"
-const P = "Python is cool"
-const JavaScript = "JavaScript is amazing"
-console.log("myVar")
-console.log("P")
-console.log("Javascript")
+console.log("C is fun")
+console.log("Python is cool")
+console.log("JavaScript is amazing")
+
 
 
