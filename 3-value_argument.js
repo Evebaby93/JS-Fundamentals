@@ -4,11 +4,10 @@ If (process.argv[3])
 {
     const arg = process.argv[3]
     console.log(arg)
-} 
-
-else
+}
+ else 
 {
-    console.log("No argument")
 
-    
+console.log("No argument")
+
 }
