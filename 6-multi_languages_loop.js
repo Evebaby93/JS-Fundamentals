@@ -1,7 +1,8 @@
 let i = 0
 
-while(i < 3)
+const str_arr = ["C is fun", "Python is cool", "JavaScript is amazing"]
+while(i < str_arr.length)
   {
-    console.log(process.argv[2 + i])
+    console.log(str_arr[i])
     i++
   }
