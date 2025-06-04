@@ -1,6 +1,5 @@
-const process = require('process');
 
-If (!process.argv[2]) 
+if (!process.argv[2]) 
 {
     console.log("No argument")
 
