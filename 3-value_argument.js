@@ -1,8 +1,8 @@
 const process = require('process');
 
-If (process.argv[3]) 
+If (process.argv[2]) 
 {
-    const arg = process.argv[3]
+    const arg = process.argv[2]
     console.log(arg)
 }
  else 
