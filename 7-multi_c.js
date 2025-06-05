@@ -1,5 +1,4 @@
 const val = parseInt(process.argv[2])
-for(let counter = 0; counter < val; counter++)
-{
+while(val && val > 0) {
     console.log("C is fun")
 }
