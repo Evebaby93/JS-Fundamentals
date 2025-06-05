@@ -1,8 +1,5 @@
-let i = 0
-
 const str_arr = ["C is fun", "Python is cool", "JavaScript is amazing"]
-while(i < str_arr.length)
-  {
+for(let i =0; i<str_arr.length; i++)
+{
     console.log(str_arr[i])
-    i++
-  }
+}
